@@ -1,0 +1,1 @@
+/Users/kamei/Documents/Projects/Programs/near_bike_share_dapp/contract/target/wasm32-unknown-unknown/release/greeter.wasm: /Users/kamei/Documents/Projects/Programs/near_bike_share_dapp/contract/src/lib.rs
